@@ -1,0 +1,13 @@
+{
+  "name": "cra-template-task-05",
+  "version": "1.2.0",
+  "np": {
+    "yolo ": true
+  },
+  "devDependencies": {
+    "np": "^7.5.0"
+  },
+  "scripts": {
+    "release": "np"
+  }
+}
